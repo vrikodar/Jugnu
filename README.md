@@ -10,7 +10,7 @@
 
 ![Capture](https://image.flaticon.com/icons/png/512/869/869316.png)
 
-`Jugnu is a Keylogger that can steal key-strokes and then send them through email.`
+`Jugnu is Going to Evolve Soon!`
 
 # HOW IT WORKS
 
